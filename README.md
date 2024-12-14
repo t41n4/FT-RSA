@@ -1,6 +1,6 @@
 ### **Summary: RSA Data Transmission and Storage Simulation with Third-Party Infrastructure**
 
-In this personal project, I developed a simulation of secure data transmission using the **RSA (Rivest–Shamir–Adleman)** public-key cryptosystem, with the added complexity of using a third-party infrastructure to store encrypted files and an SQL database to manage RSA keys and file metadata.
+In this course project, I developed a simulation of secure data transmission using the **RSA (Rivest–Shamir–Adleman)** public-key cryptosystem, with the added complexity of using a third-party infrastructure to store encrypted files and an SQL database to manage RSA keys and file metadata.
 
 The project consists of several key components:
 
